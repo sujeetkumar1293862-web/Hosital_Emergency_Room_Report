@@ -47,3 +47,6 @@ This project is very useful for a Data Analyst portfolio.
 
 Conclusion
 This project demonstrates how Microsoft Excel can be used to analyze hospital emergency room data and create an interactive dashboard. The dashboard helps in understanding patient flow, waiting time, and service performance, which supports better decision-making and improves overall hospital efficiency.
+
+6. Screenshots / Demo
+   show what the dashboard looks like. https://github.com/sujeetkumar1293862-web/Hosital_Emergency_Room_Report/blob/main/Final%20Report%20Hospital%20Emergency%20Room%20.png
